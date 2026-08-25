@@ -17,7 +17,7 @@ My background combines real-world **industrial automation** (Siemens TIA Portal,
 
 #### **Programming & Scripting**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,bash" alt="Languages" />
 </p>
 
 #### **Machine Learning, Data & Simulation**
@@ -45,15 +45,6 @@ My background combines real-world **industrial automation** (Siemens TIA Portal,
 - Developed and tested **Reinforcement Learning algorithms** for autonomous vehicle control and collision-free path execution in the CARLA simulator.
 - Implemented real-time camera image and sensor data processing pipeline.
 - Built using **Python, TensorFlow / Keras, NumPy, Matplotlib**.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TWOJ_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kamil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 

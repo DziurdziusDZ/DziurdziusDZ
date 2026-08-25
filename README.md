@@ -51,4 +51,4 @@ My background combines real-world **industrial automation** (Siemens TIA Portal,
 ### 📬 Get in Touch
 - 📧 Email: **[dziurdziakamil@op.pl](mailto:dziurdziakamil@op.pl)**
 - 📍 Location: **Gliwice, Poland**
-- 💼 LinkedIn: **[Kamil Dziurdzia](www.linkedin.com/in/kamil-dziurdzia-610873204)**
+- 💼 LinkedIn: **[Kamil Dziurdzia]([www.linkedin.com/in/kamil-dziurdzia-610873204](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7joRRrYDSIOXTCoMBB1vsA%3D%3D))**
